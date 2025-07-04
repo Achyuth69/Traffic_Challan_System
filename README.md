@@ -64,7 +64,7 @@ npm start
 
 ---
 
-####📁 Project Structure
+##📁 Project Structure
 
 ```text
 Traffic_Challan_System/
@@ -87,7 +87,7 @@ Traffic_Challan_System/
 ```
 
 ---
-#####📈 Future Enhancements
+##📈 Future Enhancements
 
 +✅ SMS/Email notifications
 +✅ Payment gateway integration
@@ -96,10 +96,10 @@ Traffic_Challan_System/
 +✅ Mobile app version (React Native)
 
 ---
-######🤝 Contributing
+##🤝 Contributing
  -Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
 ---
-#######👨‍💻 Developed By
+##👨‍💻 Developed By
 Achyuth Parisha
 GitHub: [https://github.com/Achyuth69](https://github.com/Achyuth69)
