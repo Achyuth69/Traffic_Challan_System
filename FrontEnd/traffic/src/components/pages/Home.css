@@ -1,0 +1,33 @@
+.home-container {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2rem;
+    text-align: center;
+}
+
+.home-container header {
+    margin-bottom: 2rem;
+}
+
+.home-container header h1 {
+    color: #2c3e50;
+    margin-bottom: 1rem;
+}
+
+.home-container header p {
+    color: #7f8c8d;
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+}
+
+.auth-buttons {
+    margin-top: 1.5rem;
+}
+
+.traffic-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 2rem;
+}
